@@ -1,0 +1,30 @@
+To find the man's rate along the current, we can use the information given about his speed in still water and against the current.
+
+### Given:
+- Speed in still water \( B = 5 \) km/h
+- Speed against the current \( B - C = 3.5 \) km/h
+
+### Step 1: Find the speed of the current \( C \)
+
+Using the equation for speed against the current:
+\[
+B - C = 3.5
+\]
+Substituting \( B = 5 \):
+\[
+5 - C = 3.5
+\]
+\[
+C = 5 - 3.5 = 1.5 \text{ km/h}
+\]
+
+### Step 2: Calculate the speed along the current
+
+Using the equation for speed along the current:
+\[
+B + C = 5 + 1.5 = 6.5 \text{ km/h}
+\]
+
+### Final Answer:
+
+**C. 6.5 km/h**
