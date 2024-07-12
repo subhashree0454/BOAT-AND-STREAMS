@@ -1,0 +1,40 @@
+To find the speed of the boat in still water, we can use the speeds given for downstream and upstream.
+
+### Given:
+- Speed along the stream (downstream) = 11 km/h
+- Speed against the stream (upstream) = 5 km/h
+
+### Step 1: Set up the equations
+
+Let:
+- Speed of the boat in still water = \( B \) km/h
+- Speed of the current = \( C \) km/h
+
+From the given speeds, we can set up the following equations:
+
+1. **Downstream**:
+   \[
+   B + C = 11 \quad \text{(1)}
+   \]
+
+2. **Upstream**:
+   \[
+   B - C = 5 \quad \text{(2)}
+   \]
+
+### Step 2: Solve the equations
+
+Adding equations (1) and (2):
+\[
+(B + C) + (B - C) = 11 + 5
+\]
+\[
+2B = 16
+\]
+\[
+B = 8 \text{ km/h}
+\]
+
+### Final Answer:
+
+**C. 8 km/h**
