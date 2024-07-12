@@ -1,0 +1,66 @@
+To find the ratio of the speed of the boat in still water to the speed of the stream, let:
+
+- Speed of the boat in still water = \( B \) km/h
+- Speed of the stream = \( C \) km/h
+
+### Given Condition:
+
+The man takes twice as long to row against the stream as he does downstream.
+
+### Step 1: Set up the time equations
+
+1. **Time taken to row downstream**:
+   \[
+   \text{Time}_{\text{down}} = \frac{D}{B + C}
+   \]
+
+2. **Time taken to row upstream**:
+   \[
+   \text{Time}_{\text{up}} = \frac{D}{B - C}
+   \]
+
+According to the problem:
+\[
+\text{Time}_{\text{up}} = 2 \times \text{Time}_{\text{down}}
+\]
+
+Substituting the expressions for time:
+\[
+\frac{D}{B - C} = 2 \times \frac{D}{B + C}
+\]
+
+### Step 2: Simplify the equation
+
+Cancelling \( D \) from both sides:
+\[
+\frac{1}{B - C} = \frac{2}{B + C}
+\]
+
+Cross-multiplying gives:
+\[
+B + C = 2(B - C)
+\]
+
+### Step 3: Rearranging the equation
+
+Expanding:
+\[
+B + C = 2B - 2C
+\]
+\[
+B + 3C = 2B
+\]
+\[
+B = 3C
+\]
+
+### Step 4: Find the ratio
+
+The ratio of the speed of the boat to the speed of the stream is:
+\[
+\frac{B}{C} = \frac{3C}{C} = 3:1
+\]
+
+### Final Answer:
+
+**B. 3 : 1**
