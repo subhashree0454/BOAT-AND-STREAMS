@@ -1,0 +1,41 @@
+To find the total time taken by the man to row to a place 105 km away and return, we can use the speeds of the boat and the stream.
+
+### Given:
+- Speed of the boat in still water \( B = 9 \) km/h
+- Speed of the stream \( C = 1.5 \) km/h
+- Distance to the place \( D = 105 \) km
+
+### Step 1: Calculate effective speeds
+
+1. **Downstream speed (going to the place)**:
+   \[
+   \text{Speed}_{\text{down}} = B + C = 9 + 1.5 = 10.5 \text{ km/h}
+   \]
+
+2. **Upstream speed (returning)**:
+   \[
+   \text{Speed}_{\text{up}} = B - C = 9 - 1.5 = 7.5 \text{ km/h}
+   \]
+
+### Step 2: Calculate time for each leg of the journey
+
+1. **Time going downstream**:
+   \[
+   \text{Time}_{\text{down}} = \frac{D}{\text{Speed}_{\text{down}}} = \frac{105}{10.5} = 10 \text{ hours}
+   \]
+
+2. **Time going upstream**:
+   \[
+   \text{Time}_{\text{up}} = \frac{D}{\text{Speed}_{\text{up}}} = \frac{105}{7.5} = 14 \text{ hours}
+   \]
+
+### Step 3: Calculate total time taken
+
+Total time:
+\[
+\text{Total Time} = \text{Time}_{\text{down}} + \text{Time}_{\text{up}} = 10 + 14 = 24 \text{ hours}
+\]
+
+### Final Answer:
+
+**24 hours**
