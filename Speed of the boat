@@ -1,0 +1,68 @@
+To find the speed of the boat in still water, we can use the information given about rowing downstream and upstream.
+
+### Given:
+- Time to row downstream = 2 hours
+- Time to row upstream = 3 hours
+- Velocity of the stream = 4 km/h
+
+### Step 1: Calculate the distance
+
+Let the distance be \( D \). Since speed = distance/time, we can express the distance:
+
+1. **Downstream speed**:
+   \[
+   \text{Speed}_{\text{down}} = \frac{D}{2}
+   \]
+
+2. **Upstream speed**:
+   \[
+   \text{Speed}_{\text{up}} = \frac{D}{3}
+   \]
+
+### Step 2: Set up the equations for speed
+
+Let \( B \) be the speed of the boat in still water. The effective speeds can be expressed as:
+
+1. **Downstream**:
+   \[
+   \frac{D}{2} = B + 4
+   \]
+
+2. **Upstream**:
+   \[
+   \frac{D}{3} = B - 4
+   \]
+
+### Step 3: Equate the distances
+
+From the first equation:
+\[
+D = 2(B + 4)
+\]
+
+From the second equation:
+\[
+D = 3(B - 4)
+\]
+
+Setting these equal to each other:
+\[
+2(B + 4) = 3(B - 4)
+\]
+
+### Step 4: Solve for \( B \)
+
+Expanding both sides:
+\[
+2B + 8 = 3B - 12
+\]
+\[
+8 + 12 = 3B - 2B
+\]
+\[
+20 = B
+\]
+
+### Final Answer:
+
+The speed of the boat in still water is **20 km/h**.
