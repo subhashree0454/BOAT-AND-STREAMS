@@ -1,0 +1,68 @@
+To find the ratio between the speed of the boat and the speed of the water current, let's denote:
+
+- Speed of the boat in still water = \( B \) km/h
+- Speed of the current = \( C \) km/h
+
+### Given:
+
+- Time taken upstream = 9 hours 48 minutes = \( 9 + \frac{48}{60} = \frac{588}{60} = \frac{49}{5} \) hours
+- Time taken downstream = 7 hours
+
+### Step 1: Set up the equations for speed
+
+Let the distance be \( D \). Using the formula \( \text{Distance} = \text{Speed} \times \text{Time} \):
+
+1. **Upstream**:
+   \[
+   D = (B - C) \times \frac{49}{5}
+   \]
+
+2. **Downstream**:
+   \[
+   D = (B + C) \times 7
+   \]
+
+### Step 2: Set the two expressions for distance equal
+
+Setting the two equations for distance equal:
+\[
+(B - C) \times \frac{49}{5} = (B + C) \times 7
+\]
+
+### Step 3: Expand and simplify
+
+Expanding both sides:
+\[
+\frac{49}{5}B - \frac{49}{5}C = 7B + 7C
+\]
+
+Multiplying through by 5 to eliminate the fraction:
+\[
+49B - 49C = 35B + 35C
+\]
+
+### Step 4: Rearranging the equation
+
+Rearranging gives:
+\[
+49B - 35B = 49C + 35C
+\]
+\[
+14B = 84C
+\]
+
+Dividing both sides by 14:
+\[
+B = 6C
+\]
+
+### Step 5: Find the ratio
+
+The ratio of the speed of the boat to the speed of the current:
+\[
+\frac{B}{C} = \frac{6C}{C} = 6:1
+\]
+
+### Final Answer:
+
+**C. 6:1**
