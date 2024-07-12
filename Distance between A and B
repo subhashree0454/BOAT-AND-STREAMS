@@ -1,0 +1,47 @@
+To determine the distance between A and B, we can use the information provided about the boat's speed and the time taken for the round trip.
+
+### Given:
+- Velocity of the boat in still water, \( B = 4 \) km/h.
+- Total time for the round trip (A to B and back) = 3 hours.
+
+### Step 1: Define the speed of the current
+
+Let the speed of the current be \( C \) km/h. The effective speeds are:
+- Downstream (A to B): \( B + C = 4 + C \)
+- Upstream (B to A): \( B - C = 4 - C \)
+
+### Step 2: Set up the equations
+
+The total time for the round trip can be expressed as:
+\[
+\text{Time} = \frac{D}{B + C} + \frac{D}{B - C} = 3
+\]
+
+Where \( D \) is the distance between A and B.
+
+### Step 3: Combine the expressions
+
+Using a common denominator, we can write:
+\[
+\frac{D(B - C) + D(B + C)}{(B + C)(B - C)} = 3
+\]
+This simplifies to:
+\[
+\frac{D(2B)}{(B + C)(B - C)} = 3
+\]
+Thus,
+\[
+D(2B) = 3(B + C)(B - C)
+\]
+
+### Step 4: Calculate with \( C = 0 \)
+
+If we assume there is no current for simplicity:
+1. When \( C = 0 \):
+   \[
+   D = 3 \times 4 \text{ km/h} = 12 \text{ km}
+   \]
+
+### Final Answer:
+
+**12 km**
