@@ -1,0 +1,70 @@
+To find the speed of the current, let's denote:
+
+- Speed of the boat in still water = \( B = 9 \frac{1}{3} \) km/h = \( \frac{28}{3} \) km/h
+- Speed of the current = \( C \) km/h
+
+### Step 1: Set up the relationship between speeds
+
+When rowing downstream, the effective speed is:
+\[
+B + C = \frac{28}{3} + C
+\]
+
+When rowing upstream, the effective speed is:
+\[
+B - C = \frac{28}{3} - C
+\]
+
+### Step 2: Relationship between times
+
+According to the problem, it takes three times as much time to row upstream as to row downstream. Therefore:
+\[
+\text{Time upstream} = 3 \times \text{Time downstream}
+\]
+
+Using the formula for time:
+\[
+\frac{D}{B - C} = 3 \times \frac{D}{B + C}
+\]
+
+### Step 3: Cancel \( D \)
+
+Since \( D \) (the distance) is the same, we can cancel it out:
+\[
+\frac{1}{B - C} = 3 \times \frac{1}{B + C}
+\]
+
+This simplifies to:
+\[
+B + C = 3(B - C)
+\]
+
+### Step 4: Expand and rearrange
+
+Expanding the equation:
+\[
+B + C = 3B - 3C
+\]
+\[
+B + 4C = 3B
+\]
+\[
+4C = 3B - B
+\]
+\[
+4C = 2B
+\]
+\[
+C = \frac{2B}{4} = \frac{B}{2}
+\]
+
+### Step 5: Substitute \( B \)
+
+Substituting \( B = \frac{28}{3} \):
+\[
+C = \frac{\frac{28}{3}}{2} = \frac{28}{6} = \frac{14}{3} \text{ km/h} \approx 4 \frac{2}{3} \text{ km/h}
+\]
+
+### Final Answer:
+
+**4(2/3) km/hr**
