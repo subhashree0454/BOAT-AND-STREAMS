@@ -1,0 +1,54 @@
+To find out how long the motorboat will take to travel 48 km in still water, let's analyze the given information.
+
+### Given:
+
+1. **Against the flow**: 
+   - Distance = 16 km
+   - Time = 2 hours
+   - Speed against the flow = \(\frac{16}{2} = 8\) km/h
+
+2. **Along the flow**: 
+   - Distance = 8 km
+   - Time = 20 minutes = \(\frac{20}{60} = \frac{1}{3}\) hours
+   - Speed along the flow = \(\frac{8}{\frac{1}{3}} = 24\) km/h
+
+### Step 1: Determine the speed of the current
+
+Let \( B \) be the speed of the boat in still water and \( C \) be the speed of the current.
+
+From the calculations:
+1. **Against the flow**:
+   \[
+   B - C = 8 \text{ km/h}
+   \]
+
+2. **Along the flow**:
+   \[
+   B + C = 24 \text{ km/h}
+   \]
+
+### Step 2: Solve the system of equations
+
+Adding the two equations:
+\[
+(B - C) + (B + C) = 8 + 24
+\]
+\[
+2B = 32 \Rightarrow B = 16 \text{ km/h}
+\]
+
+Substituting \( B \) back into one of the equations to find \( C \):
+\[
+16 - C = 8 \Rightarrow C = 8 \text{ km/h}
+\]
+
+### Step 3: Calculate time to travel 48 km in still water
+
+Using the speed of the boat in still water:
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{48}{16} = 3 \text{ hours}
+\]
+
+### Final Answer:
+
+**3 hours**
